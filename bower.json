@@ -1,0 +1,14 @@
+{
+  "name": "GDAZ",
+  "version": "0.0.1",
+  "dependencies": {
+    "modernizr": "",
+    "bootstrap": "",
+    "font-awesome" : "",
+    "html5shiv" : "",
+    "respond" : ""
+  },
+  "authors": [
+    "Bayramov Nicat"
+  ]
+}
